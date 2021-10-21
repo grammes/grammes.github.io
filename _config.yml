@@ -1,3 +1,7 @@
 remote_theme: pages-themes/cayman@v0.2.0
+title: Hello World
+description: Test page for GitHub Pages
+show_downloads: false
+google_analytics: 
 plugins:
 - jekyll-remote-theme
